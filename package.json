@@ -1,0 +1,22 @@
+{
+  "name": "controller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "child_process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.7",
+    "selenium-webdriver": "^4.23.0",
+    "socks": "^2.8.3",
+    "socksv5": "^0.0.6"
+  }
+}
